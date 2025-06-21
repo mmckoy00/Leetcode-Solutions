@@ -1,2 +1,2 @@
 # Leetcode-Solutions
-These are some solution to the "Top 100 Liked Questions" category from leetcode. 
+These are some solution to the array questions in leetcode
